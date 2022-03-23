@@ -1,0 +1,24 @@
+.range-grow{
+  height: 5px;
+  width: 100%;
+  background-color: #ccc;
+  display: inline-block;
+  position: relative;
+  border-radius: 12px;
+}
+
+.controller{
+  height: 5px;
+  width: 0;
+  background-color: red;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 12px;
+}
+
+textarea{
+  height: 100px;
+  padding: 10px;
+}
